@@ -8,3 +8,5 @@ https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.338690?jfwid=-evwipo4tr&fbcl
 Bet, kažkaip stebuklingai pavyko rasti žemėlapių e-versiją. Aišku žemėlapiai keliolikos metų senumo, bet šiai dienai, man atrodo, tai yra geriausia kas buvo sukurta – sužymėti intakai, atstumai, poilsiavietės, lankytinos vietos, draustiniai ir t.t. Medžiaga pravers planuojant turistinius plaukimo maršrutus, keliaujant pagrindinėmis Lietuvos upėmis.
 
 Kad failai nedingtų juos publikuojame čia.
+
+Vartotojam skirta svetainė http://upes.azuolas.org
